@@ -10,7 +10,7 @@ A Spring Boot-based platform to compare and book travel packages (Under Developm
 
 ## 🛠️ Tech Stack
 - **Backend**: Java, Spring Boot, MySQL
-- **Frontend**: Angular, you can check frontend progress: travel-sphere-frontend
+- **Frontend**: Angular, you can check frontend progress: [travel-sphere-frontend](https://github.com/SanthoshD123/travel-sphere-frontend.git)
 
 ## 🚀 Setup Instructions
 
